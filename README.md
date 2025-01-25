@@ -40,5 +40,5 @@ docker push 3425149/livecoding-api:latest
 ```
 Теперь образ с приложением можно загрузить на любую машину где есть docker в 1 команду:
 ```shell
-docker push 3425149/livecoding-api:tagname
+docker pull 3425149/livecoding-api:latest
 ```
