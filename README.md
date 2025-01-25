@@ -1,4 +1,4 @@
-[![Docker Pull](https://img.shields.io/badge/docker_image-pull-blue)](https://hub.docker.com/repository/docker/3425149/livecoding-api/general)
+[![Docker Pull](https://img.shields.io/badge/docker_image-pull-blue)](https://hub.docker.com/repository/docker/3425149/livecoding-api/tags)
 
 # О приложении
 livecoding-platform-api - это бэкэнд для live coding платформы. На платформе можно писать и исполнять кода на Java.
