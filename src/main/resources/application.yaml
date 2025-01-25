@@ -1,2 +1,2 @@
 frontend:
-  url: "http://localhost:63342"
+  url: "${FRONTEND_URL:http://localhost:63342}"
